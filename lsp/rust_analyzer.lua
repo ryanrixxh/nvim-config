@@ -1,5 +1,5 @@
 return {
-  cmd = { "rust-analyzer" },
+  cmd = { "rust_analyzer" },
   filetypes = { "rs" },
   settings = {
     inlayHints = {
